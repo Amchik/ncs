@@ -1,4 +1,4 @@
-`View full version of via using man ./README.7`
+`View full version of file: $ man ./README.7`
 
 ## NAME
 
